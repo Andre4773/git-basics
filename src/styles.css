@@ -1,3 +1,6 @@
 h1 {
     font-size: 16px;
 }
+BODY {
+	SCROLLBAR-FACE-COLOR: #e2e2e2; MARGIN: 0px; COLOR: #000000; SCROLLBAR-ARROW-COLOR: #990000; SCROLLBAR-BASE-COLOR: #cccccc; BACKGROUND-COLOR: #ffffff; scrollbar-dark-shadowcolor: #cccccc; scrollbar-light-shadow-color: #cccccc; scrollbar-3d-light-color: #e8e8e8
+}
